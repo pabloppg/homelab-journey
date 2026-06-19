@@ -8,7 +8,7 @@ Current topics include:
 
 - Github
 - Proxmox VE
-- Linux administration
+- Linux systems administration
 - Storage and filesystems
 - LXC containers
 - Nextcloud
@@ -18,3 +18,23 @@ Current topics include:
 - Self-hosted services
 
 Each project contains detailed notes, commands used, troubleshooting steps and lessons learned.
+
+## Objectives
+
+- Learn Linux and systems administration through hands-on projects.
+- Build and maintain a self-hosted infrastructure.
+- Document challenges, troubleshooting steps and solutions.
+- Develop practical skills relevant to IT, infrastructure and system administration roles.
+
+## Projects
+
+- [001 - Proxmox Storage Preparation for Nextcloud](./projects/001-proxmox-storage-nextcloud)
+
+## Planned Projects
+
+- Nextcloud LXC Deployment
+- Tailscale Remote Access
+- Docker Fundamentals
+- Jellyfin Media Server
+- Backup Strategy
+- Monitoring and Logging
